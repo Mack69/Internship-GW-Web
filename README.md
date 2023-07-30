@@ -7,4 +7,4 @@ This repository is for my Summer Internship with Groww With Code and submitting 
 
 ![image](https://github.com/Mack69/Internship-GW-Web/assets/93669449/14331f06-52f3-421b-b5bc-e5cf8f493ad0)
 
-
+![image](https://github.com/Mack69/Internship-GW-Web/assets/93669449/6bc29c50-0172-47be-93c2-8be2ccc4afa8)
